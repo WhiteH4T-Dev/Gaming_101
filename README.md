@@ -1,7 +1,27 @@
+## Why Ubuntu?
+Ubuntu is a great choice for gaming because of its stability, customizability, and support for a wide range of hardware. It is based on the highly stable and secure Debian Linux distribution, which means it is less likely to crash or experience performance issues while gaming. Additionally, Ubuntu offers a high degree of customizability, which makes it easy to optimize the system settings for gaming performance. Ubuntu also supports a wide range of hardware, including graphics cards from Nvidia and AMD, which makes it a versatile choice for gaming on a variety of systems. Overall, Ubuntu is a solid choice for gamers who want a stable and customizable operating system that offers good support for gaming hardware.
+
+<br>
+
+## How do I install Ubuntu?
+- **Download Ubuntu ISO file:** First, you need to download the Ubuntu ISO file from the official website (https://ubuntu.com/download). Choose the appropriate version and architecture (32-bit or 64-bit) based on your system configuration.
+- **Create a bootable USB drive:** After downloading the ISO file, you need to create a bootable USB drive. You can use tools like Rufus, Etcher, or UNetbootin to create a bootable USB drive.
+- **Boot from the USB drive:** Once you have created the bootable USB drive, insert it into your computer and reboot the system. Make sure to select the USB drive as the primary boot device in the BIOS settings.
+- **Choose installation options:** After booting from the USB drive, you will be presented with the Ubuntu installer. Choose the language and click "Install Ubuntu".
+- **Configure network and updates:** On the next screen, you will be prompted to connect to a network and select whether to install updates during the installation process.
+- **Choose installation type:** On the next screen, you will be prompted to choose the installation type. You can choose to install Ubuntu alongside an existing operating system, erase the disk and install Ubuntu, or choose manual partitioning.
+- **Create user account:** After choosing the installation type, you will be prompted to create a user account. Enter your name, computer name, username, and password.
+- **Wait for installation to complete:** Once you have configured all the settings, click "Install" and wait for the installation to complete. This may take some time depending on your system configuration.
+- **Reboot the system:** After the installation is complete, you will be prompted to reboot the system. Remove the USB drive and reboot the system.
+
+<br>
+
 ## What is Proton?
 Proton is a software tool developed by Valve Corporation that enables users to run Windows applications and games on Linux operating systems through the Steam platform. It works as a compatibility layer, built on top of the popular Wine software, which translates the system calls made by Windows applications and games into native Linux commands. Proton is specifically designed for gaming, with features like improved support for DirectX 11 and 12, controller support, and automatic configuration of game settings. It allows users to play many popular Windows games on their Linux systems without the need for a virtual machine or dual-boot setup. Valve maintains a compatibility database on the Proton GitHub page that lists games that have been tested and verified to work with Proton, along with any known issues. While not all games are guaranteed to work perfectly with Proton, it has greatly expanded the library of games available on Linux systems and has helped to promote Linux as a viable gaming platform.
 
-## Instructions
+<br>
+
+## Configure Ubuntu for Gaming
 Download and install the latest updates for your system and installed applications
 ```
 sudo apt-get update && sudo apt-get upgrade -y
