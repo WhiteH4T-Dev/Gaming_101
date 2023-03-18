@@ -1,3 +1,8 @@
+## Introduction
+This is a quick guide for people who are new to linux. It only covers Nvidia so AMD go fuck yourself.
+
+<br>
+
 ## Why Ubuntu?
 Ubuntu is a great choice for gaming because of its stability, security, customizability, and support for a wide range of hardware. It is based on the highly stable and secure Debian Linux distribution, which means it is less likely to crash or experience performance issues while gaming. Additionally, Ubuntu offers a high degree of customizability, which makes it easy to optimize the system settings for gaming performance. Ubuntu also supports a wide range of hardware, including graphics cards from Nvidia and AMD, which makes it a versatile choice for gaming on a variety of systems. Overall, Ubuntu is a solid choice for gamers who want a stable and customizable operating system that offers good support for gaming hardware.
 
