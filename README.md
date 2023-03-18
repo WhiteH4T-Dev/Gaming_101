@@ -110,25 +110,3 @@ This should have the folder that we extracted in the ~/.steam/root/compatibility
 
 Select the Compatibility tab and set the steam version to the new proton version we downloaded. you can close the window when you are done. Now all you have to do is launch the game, it will automatically go and download and configure your game. If it shows processing vulkna shaders dont press skip, its important. There you have it, gaming on linux with steam. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
