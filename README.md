@@ -26,7 +26,7 @@ Proton is a software tool developed by Valve Corporation that enables users to r
 
 <br>
 
-## Configure Ubuntu for Gaming
+## Configure Ubuntu
 Download and install the latest updates for your system and installed applications
 ```
 sudo apt-get update && sudo apt-get upgrade -y
